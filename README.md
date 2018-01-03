@@ -42,3 +42,6 @@ Scope of the project:
 
 This project will help people to show their artistic skills. It can be used to make people aware of the upcoming exhibition i.e. its start date, end date, location. Also include artists whose paintings are available, people could contact them if they wish to learn from them or if they want to buy their art piece. They can also approach gallery staff if someones wishes to exhibit his or her painting. 
 
+ER-diagram:
+![alt text](https://github.com/roshan02/Art-Gallery-Management-System/blob/master/ER-diagram.png)
+
