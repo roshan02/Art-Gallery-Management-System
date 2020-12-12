@@ -51,6 +51,3 @@ ER-diagram:
 Also I have added, few files related to this project which can we useful to people using this project. These files are contributed by [github.com/txhniyx](https://github.com/txhniyx). But there are few modifications which she did while making this project work.
 
 If anyone is interested to update this project with all working code feel free to file a pull request.
-
-
-SQL schema of this project is incomplete as its an old project which I have done during 3rd year of college along with my friends and  So  lost the schema only could get this when few people approached me while using this project
