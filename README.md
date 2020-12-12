@@ -46,7 +46,7 @@ ER-diagram:
 ![alt text](https://github.com/roshan02/Art-Gallery-Management-System/blob/master/ER-diagram.png)
 
 
-PS: art_gallery.sql file is incomplete. As I had forgotten to upload this file when I added this project and got to know when few people approached me while using this project from github. Since its an old project which I was done during 3rd year of college along with my friends, I couldn't get the final schema but only got this incomplete one in my system. 
+**PS**: art_gallery.sql file is incomplete. As I had forgotten to upload this file when I added this project and got to know when few people approached me while using this project from github. Since its an old project which I was done during 3rd year of college along with my friends, I couldn't get the final schema but only got this incomplete one in my system. 
 
 Also I have added, few files related to this project which can we useful to people using this project. These files are contributed by [github.com/txhniyx](https://github.com/txhniyx). But there are few modifications which she did while making this project work.
 
