@@ -45,3 +45,12 @@ This project will help people to show their artistic skills. It can be used to m
 ER-diagram:
 ![alt text](https://github.com/roshan02/Art-Gallery-Management-System/blob/master/ER-diagram.png)
 
+
+PS: art_gallery.sql file is incomplete. As I had forgotten to upload this file when I added this project and got to know when few people approached me while using this project from github. Since its an old project which I was done during 3rd year of college along with my friends, I couldn't get the final schema but only got this incomplete one in my system. 
+
+Also I have added, few files related to this project which can we useful to people using this project. These files are contributed by github.com/txhniyx. But there are few modifications which she did while making this project work.
+
+If anyone is interested to update this project with all working code feel free to file a pull request.
+
+
+SQL schema of this project is incomplete as its an old project which I have done during 3rd year of college along with my friends and  So  lost the schema only could get this when few people approached me while using this project
